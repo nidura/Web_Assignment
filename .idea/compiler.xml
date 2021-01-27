@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="softlogic" />
+        <module name="abans" />
+        <module name="singer" />
+        <module name="SingerWebService" />
+        <module name="gadget" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="abans" target="1.8" />
+      <module name="gadget" target="1.8" />
+      <module name="singer" target="1.8" />
+      <module name="SingerWebService" target="1.8" />
+      <module name="softlogic" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SingerWebService" options="-parameters" />
+      <module name="abans" options="-parameters" />
+      <module name="gadget" options="-parameters" />
+      <module name="singer" options="-parameters" />
+      <module name="softlogic" options="-parameters" />
+    </option>
+  </component>
+</project>
