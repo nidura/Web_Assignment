@@ -3,10 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SingerWebService.iml" filepath="$PROJECT_DIR$/SingerWebService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AbansWebService/abans.iml" filepath="$PROJECT_DIR$/AbansWebService/abans.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GadgetMartWebService/gadget.iml" filepath="$PROJECT_DIR$/GadgetMartWebService/gadget.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SingerWebService/singer.iml" filepath="$PROJECT_DIR$/SingerWebService/singer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SoftlogicWebService/softlogic.iml" filepath="$PROJECT_DIR$/SoftlogicWebService/softlogic.iml" />
     </modules>
   </component>
 </project>

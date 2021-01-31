@@ -4,10 +4,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/SingerWebService/pom.xml" />
-        <option value="$PROJECT_DIR$/AbansWebService/pom.xml" />
-        <option value="$PROJECT_DIR$/SoftlogicWebService/pom.xml" />
-        <option value="$PROJECT_DIR$/GadgetMartWebService/pom.xml" />
       </list>
     </option>
   </component>
