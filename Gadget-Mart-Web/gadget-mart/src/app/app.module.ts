@@ -8,6 +8,7 @@ import { FooterComponent } from './footer/footer.component';
 import { SilderComponent } from './silder/silder.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { ItemSectionComponent } from './item-section/item-section.component';
+import { AdminComponent } from './admin/admin.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { ItemSectionComponent } from './item-section/item-section.component';
     FooterComponent,
     SilderComponent,
     NavbarComponent,
-    ItemSectionComponent
+    ItemSectionComponent,
+    AdminComponent
   ],
   imports: [
     BrowserModule,
